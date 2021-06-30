@@ -33,7 +33,7 @@ I am __Goh Zhuang Qi__, an aspiring data analyst with a keen interest in data mo
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BCG RISE PROGRAMME
-Student
+
 March 2021 to Sep 2021 : 6 months
 
 ROLE: Student
