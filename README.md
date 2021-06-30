@@ -32,22 +32,22 @@ I am __Goh Zhuang Qi__, an aspiring data analyst with a keen interest in data mo
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Company ABC
+Student
+March 2021 to Sep 2021 : 6 months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Student
+UNIT: BCG RISE PROGRAMME
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on data analytics including visualisation tools, programming languages
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### University of London
+Banking & Finance 1:1
 
 <!-- EDUCATION Section Ends -->
 
