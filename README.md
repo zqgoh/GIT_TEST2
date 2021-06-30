@@ -18,7 +18,7 @@
 
 <!-- Add your details -->
 
-I am __Goh Zhuang Qi__, an aspiring data analyst wtih a keen interest in data modelling.
+I am __Goh Zhuang Qi__, an aspiring data analyst with a keen interest in data modelling.
 
 
 <!-- Add link to the sections -->
