@@ -63,7 +63,7 @@ Engineering Graduate 2010-14, First Division
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+Data analysis 
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
